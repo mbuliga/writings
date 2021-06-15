@@ -3,7 +3,7 @@
 The cartesian disease 
 ======================
 
-mbuliga\@pm.me or \@xorasimilarity on telegram\
+mbuliga\@pm.me or \@xorasimilarity on telegram
 
 From originals published at:
 
@@ -19,26 +19,26 @@ From originals published at:
 [What is, what we understand and what we communicate about it
 (2014)](https://chorasimilarity.wordpress.com/2014/10/12/what-is-what-we-understand-and-what-we-communicate-about-it/)
 
-\
 
-\
+
+
 
 **On the cartesian disease**
 
-\
+
 
 The wording "cartesian disease" means an abuse or misuse of the
 cartesian method. I shall use in the argumentation the final section,
 because there is a concentrate of the method, formulated in such a
 precise, equilibrated and astonishingly actual words.
 
-\
+
 
 The abuse of some part of the method consists in the excess of use of
 one ingredient, in parallel with a lack of use of another ingredient
 provided by Descartes' method.
 
-\
+
 
 In the following are examples of cartesian disease, listed according to
 the place in the citation which is relevant for the abuse characteristic
@@ -46,7 +46,7 @@ in the respective example. (Please read, however, the whole text in
 order to identify the countermeasures which the respective abuses
 ignore.)
 
-\
+
 
    - architectural constructs where many, if not most, of people
 live. The relevant citation from Descartes is:
@@ -70,7 +70,7 @@ Horror, boredom, social problems appeared from living in such
 functionally designed, but culturally void places, despite the good will
 of the creators.
 
-\
+
 
    - the cohort of dictators, along with their respective ideologies,
 specific to the 20th century. The relevant citation from Descartes is:
@@ -84,7 +84,7 @@ specific to the 20th century. The relevant citation from Descartes is:
 > association as communities, have followed the appointments of some
 > wise legislator."
 
-\
+
 
    - giving value to uninformed, ignorant common sense, encouraging
 simple reasoning, hence less energy consuming, more viral, over more
@@ -113,7 +113,7 @@ success. The relevant citation from Descartes is:
 > calculated to embarrass, instead of a science fitted to cultivate the
 > mind."
 
-\
+
 
    - running for the ultimate explanation, for the grand theory of
 everything, ultimately confusing the compression technique which is the
@@ -127,7 +127,7 @@ citation from Descartes is:
 > judgement than what was presented to my mind so clearly and distinctly
 > as to exclude all ground of doubt."
 
-\
+
 
    - abuse of division, creation of a myriad of problems, which is a
 tremendously efficient technique for advancing little by little our
@@ -142,7 +142,7 @@ relevant passage from Descartes is:
 > into as many parts as possible, and as might be necessary for its
 > adequate solution."
 
-\
+
 
    - using, for compression needs, of an unnecessary and unnatural one
 dimensional formulation of understanding and then thinking exclusively
@@ -159,23 +159,23 @@ relevant passage from Descartes is:
 > complete, and reviews so general, that I might be assured that nothing
 > was omitted."
 
-\
 
-\
 
-\
 
-\
+
+
+
+
 
 **More on the cartesian method and it's associated disease**
 
-\
+
 
 The cartesian method, as described by the passage by Descartes from the
 final section, is basically a technique of compression and analysis.
 From wikipedia:
 
-\
+
 
 >    Analysis is the process of breaking a complex topic or substance
 > into smaller parts to gain a better understanding of it. The technique
@@ -183,12 +183,12 @@ From wikipedia:
 > Aristotle (384--322 B.C.), though analysis as a formal concept is a
 > relatively recent development.\[1\]
 
-> \
+> 
 
 >    Some word is from the Ancient Greek ἀνάλυσις (analusis, "a breaking
 > up", from ana- "up, throughout" and lysis "a loosening").\[2\]
 
-> \
+> 
 
 >    As a formal concept, the method has variously been ascribed to
 > Alhazen,\[3\] René Descartes (Discourse on the Method), and Galileo
@@ -196,11 +196,11 @@ From wikipedia:
 > practical method of physical discovery (which he did not name or
 > formally describe).
 
-\
+
 
 The four rules of the cartesian methods are:
 
-\
+
 
 >    The first was never to accept anything for true which I did not
 > clearly know to be such; that is to say, carefully to avoid
@@ -222,16 +222,16 @@ The four rules of the cartesian methods are:
 >    And the last, in every case to make enumerations so complete, and
 > reviews so general, that I might be assured that nothing was omitted.
 
-\
+
 
 In order to justify my claim that the cartesian method is an analysis
 (or compression) technique, I shall comment these rules one by one.
 
-\
+
 
 1\. this rule is made by several parts:
 
-\
+
 
 >    "never to accept anything for true which I did not clearly know to
 > be such"
@@ -241,12 +241,12 @@ In order to justify my claim that the cartesian method is an analysis
 
 >    "so clearly and distinctly as to exclude all ground of doubt"
 
-\
+
 
 The first part looks like a thinking hygiene: be sure about your
 hypotheses.
 
-\
+
 
 The second part has to do with the limitations of our brains capacity to
 process a complex topic. As such, these limitation have nothing to do
@@ -259,7 +259,7 @@ our prejudices, indeed, as witnessed by the fact that the same research
 subject is spliced differently in different epochs or places, according
 to cultural prejudices and not biological "computing power" reasons).
 
-\
+
 
 The third part has entirely to do with our limitations. In order to
 understand the topic, we have to use techniques which "exclude all
@@ -267,22 +267,22 @@ ground of doubt". The great importance of doubt as a tool for
 understanding is one of the most viral parts of the cartesian method. It
 is one of the main ingredients of the scientific method.
 
-\
+
 
 \_\_\_\_\_\_\_\_\_\_\_\_
 
-\
+
 
 2\. two parts here as well:
 
-\
+
 
 >    "to divide each of the difficulties under examination into as many
 > parts as possible"
 
 >    "and as might be necessary for its adequate solution"
 
-\
+
 
 While the first part is clearly an analysis technique, the second part
 tell that the purpose of understanding is to find a solution for a
@@ -291,24 +291,24 @@ To make a comparison, say that we have a huge cake to eat, so we chip at
 it with our small mouths, claiming that our goal is to well chew each
 bite.
 
-\
+
 
 This is a compression technique: we divide the cake into bites, then, as
 we chew each bite, we forget about the others. The bad part is that the
 cake is not just the sum of the bites.
 
-\
+
 
 \_\_\_\_\_\_\_\_\_\_\_\_
 
-\
+
 
 3\. This is the most problematic rule, because here is given total
 priority to the understanding over the subject of understanding. The
 analysis and compression technique from the rule 2 is taken to extreme:
 first is suggested something like an eager evaluation
 
-\
+
 
 >    "to conduct my thoughts in such order that"
 
@@ -317,37 +317,37 @@ first is suggested something like an eager evaluation
 
 >    "little and little, and, as it were, step by step"
 
-\
+
 
 ... then, in order to be sure that the eager evaluation works,
 
-\
+
 
 >    "assigning in thought a certain order even to those objects which
 > in their own nature do not stand in a relation of antecedence and
 > sequence"
 
-\
+
 
 otherwise, who cares about the subject of understanding as long as I can
 produce an working algorithm? Then, we study the algorithm and we forget
 what was all this about. This looks like the most harmful part of the
 cartesian method and the main source of the cartesian disease...
 
-\
+
 
 \_\_\_\_\_\_\_\_\_\_\_\_
 
-\
+
 
 4\. ... until we read the last rule:
 
-\
+
 
 >    "in every case to make enumerations so complete, and reviews so
 > general, that I might be assured that nothing was omitted"
 
-\
+
 
 But if we already renounced at the subject of study and we already
 (recursively) replaced it with an artificial division, enumeration and
@@ -356,11 +356,11 @@ of understanding of reality over the reality itself: if the
 understanding of reality is internally coherent, then it is as good as
 the reality itself.
 
-\
+
 
 \_\_\_\_\_\_\_\_\_\_\_\_
 
-\
+
 
 Conclusion. The cartesian method is designed as a technique for
 understanding performed by one mind in isolation, severely handicapped
@@ -368,7 +368,7 @@ by the bad capacity of communication with other isolated minds. It was a
 very efficient technique, which is now challenged by two effects of its
 material outcomes:
 
-\
+
 
    - better communication channels provided by the net,
 
@@ -379,33 +379,33 @@ proofs, or for another example by the fact that we can numerically model
 physical phenomena, without understanding rigorously why the method
 works.
 
-\
+
 
 \_\_\_\_\_\_\_\_\_\_\_\_
 
-\
+
 
 If you read this, then you might be interested to read "[Descartes,
 updated](https://theputnamprogram.wordpress.com/2012/12/27/descartes-updated/)"
 at The "Putnam Program" blog.
 
-\
 
-\
 
-\
 
-\
+
+
+
+
 
 **Cartesian method, scientific method and counting problems**
 
-\
 
-\
+
+
 
 In my opinion, the best parts of the cartesian method are:
 
-\
+
 
    doubt as a tool for advancing understanding, i.e this part of the
 rule 1:
@@ -420,7 +420,7 @@ state of mind of the researcher:
 > "by commencing with objects the simplest and easiest to know, I might
 > ascend \[...\] to the knowledge of the more complex"
 
-\
+
 
 This is, in a nutshell, that part of the scientific method which apply
 even to mathematicians (who don't do experiments). If there is any need
@@ -432,13 +432,13 @@ with big data (which will require techniques adapted to the recognition
 of the fact that reality might be complex enough so that a model of it
 does not fit wholly into one human brain).
 
-\
+
 
 The following are just doubts and questions which might be naive or
 based on ignorance, but nevertheless I write them here, in the hope of
 informed comments.
 
-\
+
 
 Remember again I am a mathematician, so maybe I disappoint some readers
 (I hope not my readers) by saying that I have no problem with Cantor
@@ -460,20 +460,20 @@ localized position and moment, then I am led astray. (Not that I think
 there is any connection between logic theorems based on Cantor diagonal
 argument and quantum mechanics.)
 
-\
+
 
 So, what is left of logic if counting arguments are eliminated? Anybody
 knows? I hope so.
 
-\
 
-\
 
-\
+
+
+
 
 **What is, what we understand and what we communicate about it**
 
-\
+
 
 One of the major effects of the existence of the Net is that it
 challenges the cartesian method and shatters the foundations of
@@ -482,7 +482,7 @@ comparatively, the effect is not yet clearly identified. But it is there
 already, and even if not named, it is like a secret ailment which
 manifests here and there, stronger and stronger.
 
-\
+
 
 That which provokes the disease is a lack of balance in the use of the
 various ingredients of the cartesian method. The disbalance is provoked
@@ -490,7 +490,7 @@ by the effort to fit what is, what we understand and what we communicate
 about it into the mould of the era when the method has been invented. It
 just does not fit, therefore it overflows in unexpected ways.
 
-\
+
 
 **What is.** Better is to say what is more, compared with the time when
 the cartesian metod was invented. There is a new virtual world in the
@@ -500,11 +500,11 @@ Things in the making and, further away but really close though, an
 unification of the real world (defined as the one where Descartes lived
 and died) with these new, emerging ones.
 
-\
+
 
 The territory, suddenly, got much bigger.
 
-\
+
 
 **What we understand.** Better to say what we understand more than
 before. A huge body of scientific facts and discoveries which don't
@@ -518,27 +518,27 @@ tell us than data filtered by a theory. We do understand, or starting to
 understand that semantics is only a tool itself, a map maker, not the
 territory of what is.
 
-\
+
 
 The many maps we have don't fit, we understand.
 
-\
+
 
 **What we communicate.** Better is to say that we communicate today in
 unparalleled ways than before. But what we communicate is a very small,
 rigidly formatted part of what we understand. It is hard to communicate
 science, and the channel constraints are damaging the message.
 
-\
+
 
 We have so much to communicate and the semantic maps don't serve well
 this purpose.
 
-\
+
 
  
 
-\
+
 
 Going back at the time of the cartesian method, we see that it has been
 made as a tool for isolated minds and very limited data inflow. More
@@ -547,7 +547,7 @@ how to better understand and how to better communicate the
 understanding, which makes the rational choice for those times, but an
 irrational one for our times:
 
-\
+
 
    - it privileges what we understand over what is,
 
@@ -556,13 +556,13 @@ irrational one for our times:
    Then it optimizes what we communicate for the situation of one human
 mind which lays down the output in a book.
 
-\
+
 
 The book is then supposed to be distributed and multiplied by means
 which are not of interest for the author, and then to hit other minds in
 an unidirectional way.
 
-\
+
 
 Descartes writes a book, then somebody else writes another book where he
 challenges or supports the ideas of a Dead Descartes Book, then yet
@@ -571,21 +571,21 @@ Somebody Else Book. That's the way of the science and Descartes proposed
 a wonderful path which ensures that the various Books are well written
 and contain Text as a sort of a program which can be easily debugged.
 
-\
+
 
 Descartes rules apply in an indiscriminate way to what is, what we
 understand and what we communicate about it.
 
-\
 
-\
+
+
 
 **Reference: The cartesian method**
 
 From  Discours de la méthode pour bien conduire sa raison, et chercher
 la vérité dans les sciences, by René Descartes, beginning of Part II.
 
-\
+
 
 > \"I was then in Germany, attracted thither by the wars in that
 > country, which have not yet been brought to a termination; and as I
@@ -779,7 +779,7 @@ la vérité dans les sciences, by René Descartes, beginning of Part II.
 > sufficient for me, provided I took the firm and unwavering resolution
 > never in a single instance to fail in observing them.
 
-> \
+> 
 
 > The first was never to accept anything for true which I did not
 > clearly know to be such; that is to say, carefully to avoid
@@ -787,13 +787,13 @@ la vérité dans les sciences, by René Descartes, beginning of Part II.
 > judgement than what was presented to my mind so clearly and distinctly
 > as to exclude all ground of doubt.
 
-> \
+> 
 
 > The second, to divide each of the difficulties under examination into
 > as many parts as possible, and as might be necessary for its adequate
 > solution.
 
-> \
+> 
 
 > The third, to conduct my thoughts in such order that, by commencing
 > with objects the simplest and easiest to know, I might ascend by
@@ -802,12 +802,12 @@ la vérité dans les sciences, by René Descartes, beginning of Part II.
 > objects which in their own nature do not stand in a relation of
 > antecedence and sequence.
 
-> \
+> 
 
 > And the last, in every case to make enumerations so complete, and
 > reviews so general, that I might be assured that nothing was omitted.
 
-> \
+> 
 
 > The long chains of simple and easy reasonings by means of which
 > geometers are accustomed to reach the conclusions of their most
