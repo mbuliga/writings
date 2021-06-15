@@ -5,6 +5,10 @@ The cartesian disease
 
 mbuliga\@pm.me or \@xorasimilarity on telegram
 
+**also available:** 
+<https://telegra.ph/The-cartesian-disease-04-22>
+
+
 From originals published at:
 
 [On the cartesian disease
