@@ -110,7 +110,7 @@ biomolecules.
 
 \-\--
 
-#### Notes: {#Notes:}
+#### Notes:
 
 -   Adam and Eve here are taken from [The Internet of
     Smells](/Internet-of-Smells-04-26)
