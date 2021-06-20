@@ -190,7 +190,7 @@ Here is a depiction of a thing
 ("thing" in Germanic societies,  "res" for Romans, etc.)
 
 
- I believe that reality is a discussion (res), or a trial, which happens in places (chora or thingstead). Objects are evidence used in the discussion, or trial which is reality. O and those discussions which achieve consensus (in a place) are named "objective" (in that place). Therefore, in this belief, reality is not objective. Objects are evidence, used to argue that a new discussion is no longer necessary, in the larger discussion which happens in that place.
+ I believe that reality is a discussion (res), or a trial, which happens in places (chora or thingstead). Objects are evidence used in the discussion, or trial which is reality. Objects are reifications of those discussions which achieve consensus.  Therefore, in this belief, reality is not objective. Objects are evidence, used to argue that a new discussion is no longer necessary, in the larger discussion which happens in the thingstead.
 
 
 Objects are degraded, dead versions of things, evidence for other things but otherwise no longer interacting with reality. Reality is the one of things, not of objects. 
