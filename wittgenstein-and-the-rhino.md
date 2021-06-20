@@ -1,6 +1,11 @@
 
-A Wittgenstein joke 
-===================
+# Wittgenstein and the Rhino
+
+**also available at:** 
+<https://telegra.ph/Wittgenstein-and-the-Rhino-06-20>
+
+## A Wittgenstein joke 
+
 
 **from:** 
 <https://chorasimilarity.wordpress.com/2021/05/23/a-wittgenstein-joke/>
@@ -11,8 +16,8 @@ I only added the "Framing", "Telling" and "Punchline" headlines, to make
 the joke clearer. All the rest is (the standard English translation) of
 Wittgenstein' text.
 
-Framing:
---------
+### Framing:
+
 
 The whole sense of the book might be summed up in the following words:
 what can be said at all can be said clearly, and what we cannot talk
@@ -23,8 +28,8 @@ Thus the aim of the book is to draw a limit to thought \[...\]
 It will therefore only be in language that the limit can be drawn, and
 what lies on the otherside of the limit will simply be nonsense.
 
-Telling:
---------
+### Telling:
+
 
 2.026 There must be objects, if the world is to have unalterable form.
 
@@ -86,8 +91,8 @@ compare it with reality.
 2.21 A picture agrees with reality or fails to agree; it is correct or
 incorrect, true or false.
 
-Punchline:
-----------
+### Punchline:
+
 
 ... the truth of the thoughts that are here communicated seems to me
 unassailable and definitive. I therefore believe myself to have found,
@@ -96,8 +101,8 @@ on all essential points, the final solution of the problems.
 
 
 
-The story of the rhino thing 
-============================
+## The story of the rhino thing 
+
 
 **from:** 
 <https://chorasimilarity.wordpress.com/2014/01/04/notes-for-internet-of-things-not-internet-of-objects/>
@@ -144,7 +149,7 @@ process making the print a reversed reflection of the
 drawing. The German inscription on the woodcut, drawing largely from Pliny's
 account, reads:
   --- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  "   On the first of May in the year 1513 AD \[sic\], the powerful King of Portugal, Manuel of Lisbon, brought such a living animal from India, called the rhinoceros. This is an accurate representation. It is the colour of a speckled tortoise and is almost entirely covered with thick scales. It is the size of an elephant but has shorter legs and is almost invulnerable. It has a strong pointed horn on the tip of its nose, which it sharpens on stones. It is the mortal enemy of the elephant. The elephant is afraid of the rhinoceros, for, when they meet, the rhinoceros charges with its head between its front legs and rips open the elephant's stomach, against which the elephant is unable to defend itself. The rhinoceros is so well-armed that the elephant cannot harm it. It is said that the rhinoceros is fast, impetuous and cunning.
+  "   On the first of May in the year 1513 AD \[sic\], the powerful King of Portugal, Manuel of Lisbon, brought such a living animal from India, called the rhinoceros. This is an accurate representation. It is the colour of a speckled tortoise and is almost entirely covered with thick scales. It is the size of an elephant but has shorter legs and is almost invulnerable. It has a strong pointed horn on the tip of its nose, which it sharpens on stones. It is the mortal enemy of the elephant. The elephant is afraid of the rhinoceros, for, when they meet, the rhinoceros charges with its head between its front legs and rips open the elephant's stomach, against which the elephant is unable to defend itself. The rhinoceros is so well-armed that the elephant cannot harm it. It is said that the rhinoceros is fast, impetuous and cunning."
   --- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
@@ -176,8 +181,8 @@ in Marbella, since 2004."
 
 
 
-The reality thing 
-=================
+## The reality thing 
+
 
 Here is a depiction of a thing
 \[[source](https://en.wikipedia.org/wiki/Thing_%28assembly%29)\]:
