@@ -62,8 +62,8 @@ Now, or in a few years.
 
 
 I used everything available to turn this project into Open Science. You name it:
-  * [old form articles(](https://arxiv.org/a/buliga_m_1),
-  * old [html and javascript](http://chorasimilarity.github.io/chemlambda-gui/dynamic/molecular.html)" articles,  new [official page](https://chemlambda.github.io/index.html),
+  * [old form articles](https://arxiv.org/a/buliga_m_1),
+  * old [html and javascript](http://chorasimilarity.github.io/chemlambda-gui/dynamic/molecular.html) articles,  new [official page](https://chemlambda.github.io/index.html),
   * [research blog](https://chorasimilarity.wordpress.com/),
   * old [github repository](https://github.com/chorasimilarity/chemlambda-gui/blob/gh-pages/dynamic/README.md), new [quine graphs repository](https://github.com/mbuliga/quinegraphs),
   *  [figshare data repository](https://figshare.com/authors/Marius_Buliga/475484), 
