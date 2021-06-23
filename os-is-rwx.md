@@ -77,7 +77,7 @@ Therefore my Open Science attempt was to create molecules, some of them exhibiti
 
 
 
-## An interview<
+## An interview
 
 I save here a copy of the [archived version](https://archive.is/uvlg7) of this interview from 2016, (the original no longer exists).  Thanks to Guillaume Dumas (Hack your PhD)!
 
@@ -243,7 +243,7 @@ An article which runs in the browser should have the following features:
   * finally, the article which runs in the browser does not need a publisher, nor a DRM manager. What for?
 
 
-## Reproducibility vs peer review<
+## Reproducibility vs peer review
 
 **from:** 
 <https://chorasimilarity.wordpress.com/2015/04/09/reproducibility-vs-peer-review/>
@@ -323,4 +323,3 @@ The most damaging part is
 
 
 The management of work bloats and spill over the work itself and in the same time the cartesian method always HALT, but for no scientific reason at all.
-          <div
