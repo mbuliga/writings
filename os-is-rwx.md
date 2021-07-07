@@ -79,7 +79,7 @@ Therefore my Open Science attempt was to create molecules, some of them exhibiti
 
 ## An interview
 
-I save here a copy of the [archived version](https://archive.is/uvlg7) of this interview from 2016, (the original no longer exists).  Thanks to Guillaume Dumas (Hack your PhD)!
+I save here a copy of the [archived version](https://archive.is/uvlg7) of this interview from 2016. Later I found that the original is not lost, you can access it  at a [different address](https://hyr.science/2016/01/from-open-notebooks-to-self-executing-online-publications-interview-with-marius-buliga/?lang=en)).  Thanks to Guillaume Dumas (Hack your PhD, now Hack your Research)!
 
 
 
