@@ -1,5 +1,5 @@
 # Writings
-by mbuliga or chorasimilarity
+by [mbuliga](http://imar.ro/~mbuliga/index.html) or [chorasimilarity](https://chorasimilarity.wordpress.com/)
 
 All writings are [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)
 
