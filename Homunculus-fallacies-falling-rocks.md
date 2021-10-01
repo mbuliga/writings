@@ -1,4 +1,4 @@
-#Homunculus fallacies, falling rocks and the computational paradigm
+# Homunculus fallacies, falling rocks and the computational paradigm
 
 **also available at:** 
 <https://telegra.ph/Homunculus-fallacies-and-falling-rocks-09-24>
