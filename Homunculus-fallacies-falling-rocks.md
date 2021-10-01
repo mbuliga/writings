@@ -5,6 +5,8 @@
 
 
 
+
+
 There are two different ways a falling rock computes. There are two different homunculus fallacies. And they are all related.
 
 
@@ -20,15 +22,15 @@ The previous three paradigms are, as Stephen writes:
 
 Puting aside the first paradigm (because it is so old and rich and... still alive everywhere), I'd reformulate the mathematical and the computational paradigm as: 
 
-    * The mathematical paradigm: find invariants of the system and then, separately, compute consequences by the way of the human mind
+   * The mathematical paradigm: find invariants of the system and then, separately, compute consequences by the way of the human mind
 
-    * The computational paradigm: define the evolution of the system as a computation and then run it, because most of the time there is no faster way.
+   * The computational paradigm: define the evolution of the system as a computation and then run it, because most of the time there is no faster way.
 
 So, how does a rock fall?  
 
-    * according to the mathematical paradigm: there are invariants of the movement, like the conservation of energy. By knowing the initial condition, we can compute the evolution of the rock (center of mass say) by solving a simple equation. 
+   * according to the mathematical paradigm: there are invariants of the movement, like the conservation of energy. By knowing the initial condition, we can compute the evolution of the rock (center of mass say) by solving a simple equation. 
 
-    * according to the computational paradigm: the rock is composed by a big number of atoms which interact ones with the others and all interact with the gravitational field. The gravitational field is a property of space and all the interactions can be expressed by simple rules. We build a model of space, the rock and their interactions and then we run it to see how the rock will fall. 
+   * according to the computational paradigm: the rock is composed by a big number of atoms which interact ones with the others and all interact with the gravitational field. The gravitational field is a property of space and all the interactions can be expressed by simple rules. We build a model of space, the rock and their interactions and then we run it to see how the rock will fall. 
 
 In the case of the rock falling, we can accept that the rock is actually falling as in the computational paradigm, but we do have a much shorter computation to make in the mathematical paradigm, which will give us the way the rock will fall. 
 
@@ -58,9 +60,9 @@ This is a huge technical achievement, along with the detailed, up to neurons, ch
 
 So how does the fly' vision system works? There are two explanations: 
 
-    * the mathematical explanation of the human experimenter. In the explanation is used euclidean geometry and newtonian physics. Some equations are solved.
+   * the mathematical explanation of the human experimenter. In the explanation is used euclidean geometry and newtonian physics. Some equations are solved.
 
-    * the computational explanation of the fly. There is no place in the fly' brain for euclidean geometry. Something different than what the experimenter tells us happens in the fly brain. It is presumably a local computation with rather simple rules which is done by the fly' brain. Like the computation of the rock when it falls, but in order to reproduce it in the computational model (on a computer) we  probably need a huge computer. 
+   * the computational explanation of the fly. There is no place in the fly' brain for euclidean geometry. Something different than what the experimenter tells us happens in the fly brain. It is presumably a local computation with rather simple rules which is done by the fly' brain. Like the computation of the rock when it falls, but in order to reproduce it in the computational model (on a computer) we  probably need a huge computer. 
 
 You may notice that the experimenter' explanation introduces an external homunculus in the theory. The computational explantion is, presently a reasonable hope. 
 
